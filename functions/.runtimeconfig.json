@@ -1,0 +1,8 @@
+{
+  "jwt": {
+    "secret": "0cc2cc6f5bff46e56bba3f41f1eb75b1dba88c7cd7ddabb8fd23222096b6c21194a6a4fbaeb0832a4c938e6ce39155eec06fce2d6248db22798555a2aa5232d0"
+  },
+  "bot": {
+    "token": "7468906281:AAGYEHtpbY8w7CVdga_43NcAPMDqMluYlpg"
+  }
+}
